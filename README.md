@@ -4,4 +4,4 @@ Mostro nessa aula com mais detalhes com usar a biblioteca do google para gráfic
 
 ## Vídeo da aula
 
-<a href="">Ir para o canal</a>
+- [Ir para o canal](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/)
